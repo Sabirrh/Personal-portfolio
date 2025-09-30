@@ -85,3 +85,8 @@ This project is licensed under the [MIT License](LICENSE).
 [LinkedIn](https://www.linkedin.com/in/sabirhussainteli) | [GitHub](https://github.com/Sabirrh)
 
 ---
+
+# My Personal Portfolio Screenshot
+
+![Portfolio Screenshot](assets/screenshot_first_page.png)
+
