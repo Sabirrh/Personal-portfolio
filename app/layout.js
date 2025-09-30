@@ -1,4 +1,3 @@
-'use client';
 import { Outfit, Ovo } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from 'next-themes';
