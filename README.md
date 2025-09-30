@@ -6,7 +6,7 @@ A modern, responsive personal portfolio built with **Next.js 15**, **Tailwind CS
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio]((https://personal-portfolio-sepia-kappa-15.vercel.app/))  
+👉 [View Portfolio](https://personal-portfolio-sepia-kappa-15.vercel.app/)
 
 ---
 
