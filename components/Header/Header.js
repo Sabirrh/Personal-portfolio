@@ -48,7 +48,7 @@ function Header() {
                 whileInView={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.6, delay: 0.3 }}
                 className="flex items-end gap-2 text-xl md:text-2xl md-3 font-Ovo"
-            >Hi! I'm Sabir Hussain Teli
+            >Hi! I&apos;m Sabir Hussain Teli
                 <Image src={assets.hand_icon}
                     alt="Profile_Image"
                     className="w-6" />
