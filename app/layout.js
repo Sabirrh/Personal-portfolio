@@ -1,6 +1,8 @@
 import { Outfit, Ovo } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from 'next-themes';
+import { Analytics } from '@vercel/analytics/next';
+
 const outfit = Outfit({
   subsets: ['latin'],
   weight: ['400', '500', '600', '700'],
@@ -27,6 +29,7 @@ export default function RootLayout({ children }) {
       >
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={true}>
           {children}
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
