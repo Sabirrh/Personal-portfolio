@@ -64,7 +64,7 @@ function Header() {
                 initial={{ opacity: 0 }}
                 whileInView={{ opacity: 1 }}
                 transition={{ duration: 0.6, delay: 0.7 }}
-            >I’m a Passionate Full Stack Developer with a strong foundation
+            >I&apos;m a Passionate Full Stack Developer with a strong foundation
                 in modern web technologies, aiming to grow as a well-rounded software engineer by building impactful and efficient digital solutions.
             </motion.p>
             <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
