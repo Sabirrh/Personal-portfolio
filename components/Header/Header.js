@@ -83,7 +83,7 @@ function Header() {
                     initial={{ y: 30, opacity: 0 }}
                     whileInView={{ y: 0, opacity: 1 }}
                     transition={{ duration: 0.6, delay: 1.2 }}
-                    href="/Sabir_Hussain_Resume.pdf" download
+                    href="/Sabir_hussain_teli.pdf" download
                     className="px-10 py-3 rounded-full border border-gray-500 flex items-center gap-2 dark:text-black dark:bg-white"
                 >my resume
                     <Image src={assets.download_icon} alt="Profile_Image"
