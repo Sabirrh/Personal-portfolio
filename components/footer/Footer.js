@@ -16,7 +16,7 @@ function Footer() {
                 <Image src={resolvedTheme === 'dark' ? assets.logo_dark : assets.logo} alt='logo' className="w-36 mx-auto mb-2" />
                 <div className="w-max flex items-center gap-2 mx-auto">
                     <a
-                        href="mailto:sabirrh12@gmail.com"
+                        href="mailto:sabirteli828@gmail.com"
                         className="flex gap-1.5 items-center"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -30,7 +30,7 @@ function Footer() {
             <div className="text-center sm:flex items-center justify-between border-t
             border-gray-400 mx-[10%] mt-12 py-6">
                 <p>
-                    © 2025 Sabir Hussain. All right reserved.
+                    © 2026 Sabir Hussain. All right reserved.
                 </p>
                 <ul className="flex items-center gap-10 justify-center sm:mt-0">
                     <li><Link className="flex w-full gap-1.5" target="_blank" href="https://www.facebook.com/profile.php?id=100007414189430">
