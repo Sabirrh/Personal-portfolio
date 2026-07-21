@@ -11,12 +11,9 @@ function Header() {
         titleInstance.current = new Typed(titleRef.current, {
             strings: [
                 "Full Stack Developer",
-                "Computer Science Graduate",
                 "JavaScript Enthusiast",
                 "React & Node.js Developer",
                 "Passionate Learner",
-                "Problem Solver",
-                "Open to Work Opportunities",
                 "Eager to Join a Tech Team",
                 "Ready to Learn and Grow"
             ],
@@ -62,10 +59,10 @@ function Header() {
                 initial={{ opacity: 0 }}
                 whileInView={{ opacity: 1 }}
                 transition={{ duration: 0.6, delay: 0.7 }}
-            >I&apos;m a Passionate Full Stack Developer with a strong foundation
+            >I&apos;m a passionate full-stack developer with a strong foundation
                 in modern web technologies, aiming to grow as a well-rounded software engineer by building impactful and efficient digital solutions.
             </motion.p>
-            <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
+            <div className=" flex flex-col sm:flex-row items-center gap-4 mt-4">
                 <motion.a
                     initial={{ y: 30, opacity: 0 }}
                     whileInView={{ y: 0, opacity: 1 }}
