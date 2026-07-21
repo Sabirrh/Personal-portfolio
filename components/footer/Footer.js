@@ -22,7 +22,7 @@ function Footer() {
                         rel="noopener noreferrer"
                     >
                         <Image src={resolvedTheme === 'dark' ? assets.mail_icon_dark : assets.mail_icon} alt="mailIcon" className="w-8" />
-                        sabirrh12@gmail.com
+                        sabir02280@gmail.com
                     </a>
                 </div>
 
