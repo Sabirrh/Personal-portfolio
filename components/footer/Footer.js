@@ -16,7 +16,7 @@ function Footer() {
                 <Image src={resolvedTheme === 'dark' ? assets.logo_dark : assets.logo} alt='logo' className="w-36 mx-auto mb-2" />
                 <div className="w-max flex items-center gap-2 mx-auto">
                     <a
-                        href="mailto:sabirteli828@gmail.com"
+                        href="mailto:sabir02280gmail.com"
                         className="flex gap-1.5 items-center"
                         target="_blank"
                         rel="noopener noreferrer"
